@@ -1,6 +1,6 @@
  👋 Hi, I’m @skarthikkar
-- 👀 I’m interested in Full Stack Web Developmet 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Full Stack Web Developmet
+- 🌱 I know HTML, CSS, JavaScript, Java and MySQL
 - 📫 Reach out to me at skarthik946@gmail.com
 
 <!---
